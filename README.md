@@ -1,13 +1,13 @@
 <h1 align="center">Hey! I'm Rich Supe</h1>
 <h3 align="center">A fullstack developer from Chicago</h3>
 
-<h4 align="center"> 🔭 I’m currently working on **Forever Walks**</h4>
+<!-- <h4 align="center"> 🔭 I’m currently working on **Forever Walks**</h4>
 
 <h4 align="center"> 🌱 I’m currently learning **DSA**</h4>
 
 <h4 align="center"> 💬 Ask me about **React, DSA, and more!**</h4>
 
-<h4 align="center"> 📫 How to reach me **rsupe1993@aol.com**</h4>
+<h4 align="center"> 📫 How to reach me **rsupe1993@aol.com**</h4> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
