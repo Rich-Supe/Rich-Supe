@@ -28,5 +28,5 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rich-supe&theme=highcontrast" alt="rich-supe" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rich-supe" alt="rich-supe" /></p>
 
