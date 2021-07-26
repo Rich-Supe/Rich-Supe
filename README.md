@@ -24,7 +24,7 @@
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rich-supe&show_icons=true&theme=tokyonight&locale=en" alt="rich-supe" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rich-supe&show_icons=true&locale=en" alt="rich-supe" /></p>
 
 
 
