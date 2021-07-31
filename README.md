@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Rich Supe,</h1>
+<h1 align="center">Hey! Nice to meet you, I'm Rich Supe:</h1>
 <h3 align="center">A fullstack developer from Chicago.</h3>
 
 <!-- <h4 align="center"> 🔭 I’m currently working on **Forever Walks**</h4>
