@@ -1,5 +1,5 @@
-<h1 align="center">Hey! Nice to meet you, I'm Rich Supe:</h1>
-<h3 align="center">A fullstack developer from Chicago.</h3>
+<h1 align="center">Hey! Nice to meet you, I'm Rich Supe.</h1>
+<h3 align="center">I'm a fullstack developer from Chicago.</h3>
 
 <!-- <h4 align="center"> 🔭 I’m currently working on **Forever Walks**</h4>
 
@@ -9,7 +9,7 @@
 
 <h4 align="center"> 📫 How to reach me **rsupe1993@aol.com**</h4> -->
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me here:</h3>
 <p align="center">
 <a href="https://twitter.com/supe_richard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supe_richard" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/richard-supe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard-supe" height="30" width="40" /></a>
