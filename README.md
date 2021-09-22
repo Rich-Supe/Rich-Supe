@@ -1,6 +1,6 @@
 <h1 align="center">Hey! Nice to meet you, I'm Rich Supe.</h1>
 <h3 align="center">I'm a fullstack developer from Chicago.</h3>
-<!-- <h4> 👨‍💻 All of my projects are available at [https://richsupe.com] (https://richsupe.com) </h4> -->
+<h3 align="center">My projects are available at https://richsupe.com</h4>
 
 <!-- <h4 align="center"> 🔭 I’m currently working on **Forever Walks**</h4>
 
