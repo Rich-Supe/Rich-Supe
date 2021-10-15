@@ -31,7 +31,7 @@
 
 
 <!-- <div align="center"> -->
-  ![snake gif](https://github.com/Rich-Supe/Rich-Supe/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Rich-Supe/Rich-Supe/blob/output/github-contribution-grid-snake.gif)
 <!-- </div> -->
 
 
