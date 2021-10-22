@@ -41,7 +41,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rich-supe&show_icons=true&locale=en" alt="rich-supe" /></p>
 
-<h3 align="center">Enjoy this pesky snake eating my contributions</h3>
+<h2 align="center">Enjoy this pesky snake eating my contributions</h2>
 <p align="center">
   <img src="https://github.com/Rich-Supe/Rich-Supe/blob/output/github-contribution-grid-snake.gif" alt="animated">
 </p>
