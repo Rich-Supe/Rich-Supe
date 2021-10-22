@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/70147547/138522749-da601657-2093-4c5b-8890-cfba4ef95d9f.png"></img>
 </p>
 
-<h2 align="center">I'm a fullstack developer from Chicago.</h2>
+<!-- <h2 align="center">I'm a fullstack developer from Chicago.</h2> -->
 <p align="center">
 <a href="https://twitter.com/supe_richard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supe_richard" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/richard-supe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard-supe" height="30" width="40" /></a>
