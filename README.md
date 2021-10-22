@@ -1,7 +1,10 @@
 <h1 align="center">Hey! Nice to meet you!</h1>
 <!-- ![Brought to you by Redditech Networks](https://user-images.githubusercontent.com/70147547/138522749-da601657-2093-4c5b-8890-cfba4ef95d9f.png) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70147547/138522749-da601657-2093-4c5b-8890-cfba4ef95d9f.png"></img>
+<!--   <img src="https://user-images.githubusercontent.com/70147547/138522749-da601657-2093-4c5b-8890-cfba4ef95d9f.png"></img> -->
+
+![Brought to you by Redditech Networks](https://user-images.githubusercontent.com/70147547/138525156-b63cc161-9abb-4413-874d-2648f018a615.gif)
+
 </p>
 
 <!-- <h2 align="center">I'm a fullstack developer from Chicago.</h2> -->
