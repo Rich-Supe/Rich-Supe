@@ -1,4 +1,9 @@
 <h1 align="center">Hey! Nice to meet you, I'm Rich Supe.</h1>
+<p align="center">
+<a href="https://twitter.com/supe_richard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supe_richard" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/richard-supe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard-supe" height="30" width="40" /></a>
+<a href="https://instagram.com/richardsupe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richardsupe" height="30" width="40" /></a>
+</p>
 <h3 align="center">I'm a fullstack developer from Chicago.</h3>
 <h3 align="center">My projects are available at https://richsupe.com</h4>
 
@@ -17,16 +22,14 @@
 
 <h4 align="center"> 📫 How to reach me **rsupe1993@aol.com**</h4> -->
 
-<h3 align="center">Connect with me here:</h3>
-<!-- <h3 align="center"> [Or Check Out my Portfolio!](https://richsupe.com/)</h3>
-[Live](https://richsupe.com/) -->
-<p align="center">
+<!-- <h3 align="center">Connect with me here:</h3> -->
+<!-- <h3 align="center"> [Or Check Out my Portfolio!](https://richsupe.com/)</h3> -->
+<!-- [Live](https://richsupe.com/) -->
+<!-- <p align="center">
 <a href="https://twitter.com/supe_richard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supe_richard" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/richard-supe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard-supe" height="30" width="40" /></a>
 <a href="https://instagram.com/richardsupe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richardsupe" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">And enjoy this pesky snake eating my contributions</h3>
+</p> -->
 <!-- <h3> Check out my [Portfolio](https://richsupe.com) </h3>
 <a align="center" href="https://richsupe.com"> Check out my portfolio! </a> -->
 
@@ -36,13 +39,13 @@
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rich-supe&show_icons=true&locale=en&layout=compact" alt="rich-supe" /></p> -->
 
-
-<!-- <div align="center"> -->
-  ![snake gif](https://github.com/Rich-Supe/Rich-Supe/blob/output/github-contribution-grid-snake.gif)
-<!-- </div> -->
-
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rich-supe&show_icons=true&locale=en" alt="rich-supe" /></p>
+
+<h3 align="center">Enjoy this pesky snake eating my contributions</h3>
+<p align="center">
+  <img src="https://github.com/Rich-Supe/Rich-Supe/blob/output/github-contribution-grid-snake.gif" alt="animated">
+</p>
+
 
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rich-supe" alt="rich-supe" /></p> -->
