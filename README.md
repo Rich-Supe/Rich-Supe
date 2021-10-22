@@ -8,12 +8,13 @@
 </p>
 
 <!-- <h2 align="center">I'm a fullstack developer from Chicago.</h2> -->
+<h2 align="center">My projects are available at https://richsupe.com</h2>
+
 <p align="center">
 <a href="https://twitter.com/supe_richard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supe_richard" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/richard-supe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard-supe" height="30" width="40" /></a>
 <a href="https://instagram.com/richardsupe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richardsupe" height="30" width="40" /></a>
 </p>
-<h2 align="center">My projects are available at https://richsupe.com</h2>
 
 <!-- <div align="center"> -->
 <!-- ![Typing gif4](https://user-images.githubusercontent.com/70147547/138502389-a2391d95-8882-40b0-a73a-59962d48b261.gif) -->
@@ -49,10 +50,10 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rich-supe&show_icons=true&locale=en" alt="rich-supe" /></p>
 
-<h2 align="center">Enjoy this pesky snake eating my contributions</h2>
 <p align="center">
   <img src="https://github.com/Rich-Supe/Rich-Supe/blob/output/github-contribution-grid-snake.gif" alt="animated">
 </p>
+<h2 align="center">Enjoy this pesky snake eating my contributions, or find them below</h2>
 
 
 
