@@ -1,11 +1,11 @@
 <h1 align="center">Hey! Nice to meet you, I'm Rich Supe.</h1>
+<h2 align="center">I'm a fullstack developer from Chicago.</h2>
 <p align="center">
 <a href="https://twitter.com/supe_richard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supe_richard" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/richard-supe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard-supe" height="30" width="40" /></a>
 <a href="https://instagram.com/richardsupe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richardsupe" height="30" width="40" /></a>
 </p>
-<h3 align="center">I'm a fullstack developer from Chicago.</h3>
-<h3 align="center">My projects are available at https://richsupe.com</h4>
+<h2 align="center">My projects are available at https://richsupe.com</h2>
 
 <!-- <div align="center"> -->
 <!-- ![Typing gif4](https://user-images.githubusercontent.com/70147547/138502389-a2391d95-8882-40b0-a73a-59962d48b261.gif) -->
