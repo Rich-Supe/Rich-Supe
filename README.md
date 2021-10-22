@@ -31,14 +31,14 @@
 
 
 <!-- <div align="center"> -->
-<!--   ![snake gif](https://github.com/Rich-Supe/Rich-Supe/blob/output/github-contribution-grid-snake.gif) -->
+  ![snake gif](https://github.com/Rich-Supe/Rich-Supe/blob/output/github-contribution-grid-snake.gif)
 <!-- </div> -->
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rich-supe&show_icons=true&locale=en" alt="rich-supe" /></p>
 
 <!-- <div align="center"> -->
-  ![snake gif](https://github.com/Rich-Supe/Rich-Supe/blob/output/github-contribution-grid-snake.gif)
+<!--   ![snake gif](https://github.com/Rich-Supe/Rich-Supe/blob/output/github-contribution-grid-snake.gif) -->
 <!-- </div> -->
 
 
