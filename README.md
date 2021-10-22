@@ -20,6 +20,8 @@
 <a href="https://linkedin.com/in/richard-supe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard-supe" height="30" width="40" /></a>
 <a href="https://instagram.com/richardsupe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richardsupe" height="30" width="40" /></a>
 </p>
+
+<h3 align="center">And enjoy this pesky snake eating my contributions</h3>
 <!-- <h3> Check out my [Portfolio](https://richsupe.com) </h3>
 <a align="center" href="https://richsupe.com"> Check out my portfolio! </a> -->
 
