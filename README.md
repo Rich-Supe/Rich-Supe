@@ -11,7 +11,8 @@
 </p>
 
 <!-- <h2 align="center">I'm a fullstack developer from Chicago.</h2> -->
-<h2 align="center">My projects are available at https://richsupe.com</h2>
+<h2 align="center">My projects are available https://richsupe.com</h2>
+<!-- <a align="center" href='https://richsupe.com' target="blank"> My Portfolio</a> -->
 
 <p align="center">
 <a href="https://twitter.com/supe_richard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supe_richard" height="30" width="40" /></a>
